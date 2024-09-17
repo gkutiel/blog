@@ -69,7 +69,7 @@ const index_html =
                         <a class="block" href={htmlPath(post)}>
                             <div className="post">
                                 <div className="row">
-                                    <h2>{post.data.title}</h2>
+                                    <h2>{post.data.favicon} {post.data.title}</h2>
                                     <time>{post.data.date}</time>
                                 </div>
                                 <p>{post.data.description}</p>
