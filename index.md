@@ -1,6 +1,6 @@
 ---
 title: הבלוג לאורח חיים בריא
-description: בלוג
+description: בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.
 image: img/cover.jpg
 favicon: 🧘
 ---
