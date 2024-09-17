@@ -8,6 +8,12 @@
     box-sizing: border-box;
 }
 
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
 html {
     font-family: "Open Sans", sans-serif;
     color: var(--color);
@@ -20,12 +26,31 @@ body {
     font-size: larger;
 }
 
+menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1em 0;
+    background-color: var(--color);
+    font-weight: bold;
+    width: 100%;
+    margin: 0;
+    padding: 1em;
+    position: fixed;
+}
+
+menu a {
+    color: white;
+    text-decoration: none;
+}
+
 main,
 img {
     max-width: 800px;
 }
 
 main {
+    margin-top: 5em;
     text-align: justify;
     line-height: 1.5;
 }

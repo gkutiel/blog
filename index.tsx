@@ -107,6 +107,10 @@ function renderPost(post: Post) {
                     <title>{post.data.title}</title>
                 </head>
                 <body>
+                    <menu>
+                        <a href="/">דף הבית</a>
+                        <a href="">YouTube</a>
+                    </menu>
                     <main>
                         <article>
                             <div dangerouslySetInnerHTML={{ __html: marked(post.content) as string }}></div>
