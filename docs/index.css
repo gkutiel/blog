@@ -62,5 +62,6 @@ a.block {
     img {
         width: 98vw;
         padding: 1vw;
+        margin: 0;
     }
 }
