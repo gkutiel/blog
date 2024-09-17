@@ -1,9 +1,11 @@
 ---
 title: שינה
-description:
-image:
-favicon:
+image: img/sleep.jpg
+favicon: 🛌
+description: שינה היא תהליך חיוני לשיקום הגוף והנפש, המשפר תפקוד קוגניטיבי ובריאות כללית, בעוד שמחסור בשינה עלול לגרום להשלכות בריאותיות חמורות.
 ---
+
+![](img/sleep.jpg)
 
 # שינה
 
