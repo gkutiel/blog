@@ -11,6 +11,7 @@ interface Post {
         favicon: string
         title: string
         description: string
+        image: string
     }
     content: string
     path: string
@@ -88,6 +89,10 @@ function renderPost(post: Post) {
             <html lang="he-il" dir="rtl">
                 <head>
                     {metaViewport}
+                    {ogTitle(post.data.title)}
+                    {ogDescription(post.data.description)}
+                    {ogImage(post.data.image)}
+
                     <link rel="stylesheet" href="index.css" />
                     {favicon(post.data.favicon)}
                     <title>{post.data.title}</title>

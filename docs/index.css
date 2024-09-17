@@ -4,6 +4,10 @@
     --color: #333;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 html {
     font-family: "Open Sans", sans-serif;
     color: var(--color);
@@ -50,4 +54,13 @@ a {
 
 a.block {
     color: var(--color);
+}
+
+@media (max-width: 800px) {
+
+    main,
+    img {
+        width: 100vw;
+        padding: 0 1em;
+    }
 }
