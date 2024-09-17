@@ -3,10 +3,10 @@ date: 2024-17-9
 title: קפה
 description: קפה הוא משקה פופולרי שמגביר עירנות ויכול לסייע במניעת מחלות כמו סוכרת ומחלות לב, אך צריכתו המופרזת עלולה לגרום לבעיות כמו קשיי שינה ותלות.
 favicon: ☕
-image: img/coffe.jpg
+image: img/coffee.jpg
 ---
 
-![](img/coffe.jpg)
+![](img/coffee.jpg)
 
 # קפה
 
