@@ -1,6 +1,7 @@
 ---
 title: הבלוג לאורח חיים בריא
 description: בלוג
+image: img/cover.jpg
 favicon: 🧘
 ---
 
