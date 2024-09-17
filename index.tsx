@@ -96,6 +96,7 @@ const postPreview = (post: Post) =>
     </a>
 
 function renderPost(post: Post) {
+    console.log(`rendering ${post.path}`)
     fs.writeFileSync(
         `docs/${path.basename(post.path, '.md')}.html`,
         render(
