@@ -58,6 +58,10 @@ const index_html =
             <title>{index.data.title}</title>
         </head>
         <body>
+            <menu>
+                <a href="/">דף הבית</a>
+                <a href="">YouTube</a>
+            </menu>
             <main>
                 <div dangerouslySetInnerHTML={{ __html: marked(index.content) as string }}></div>
                 <div className="posts">
