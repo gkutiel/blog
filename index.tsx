@@ -30,9 +30,12 @@ function favicon(icon: string) {
     return <link rel="icon" href={`data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>${icon}</text></svg>`} />
 }
 
+const metaViewport = <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 const index_html =
     <html lang="he-il" dir="rtl">
         <head>
+            {metaViewport}
             <link rel="stylesheet" href="index.css" />
             {favicon(index.data.favicon)}
             <title>{index.data.title}</title>
@@ -69,6 +72,7 @@ function renderPost(post: Post) {
         render(
             <html lang="he-il" dir="rtl">
                 <head>
+                    {metaViewport}
                     <link rel="stylesheet" href="index.css" />
                     {favicon(post.data.favicon)}
                     <title>{post.data.title}</title>
