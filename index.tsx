@@ -42,7 +42,7 @@ function ogDescription(description: string) {
 }
 
 function ogImage(image: string) {
-    return <meta property="og:image" content={image} />
+    return <meta property="og:image" content={`https://gilad.kutiel.com/${image}`} />
 }
 
 const index_html =
@@ -51,7 +51,7 @@ const index_html =
             {metaViewport}
             {ogTitle(index.data.title)}
             {ogDescription(index.data.description)}
-            {ogImage('https://gilad.kutiel.com/cover.jpg')}
+            {ogImage('img/cover.jpg')}
             <link rel="stylesheet" href="index.css" />
             {favicon(index.data.favicon)}
             <title>{index.data.title}</title>
