@@ -1,4 +1,5 @@
 ---
+date: 2024-9-13
 title: שינה
 image: img/sleep.jpg
 favicon: 🛌
