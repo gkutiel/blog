@@ -32,10 +32,25 @@ function favicon(icon: string) {
 
 const metaViewport = <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+function ogTitle(title: string) {
+    return <meta property="og:title" content={title} />
+}
+
+function ogDescription(description: string) {
+    return <meta property="og:description" content={description} />
+}
+
+function ogImage(image: string) {
+    return <meta property="og:image" content={image} />
+}
+
 const index_html =
     <html lang="he-il" dir="rtl">
         <head>
             {metaViewport}
+            {ogTitle(index.data.title)}
+            {ogDescription(index.data.description)}
+            {ogImage('https://gilad.kutiel.com/cover.jpg')}
             <link rel="stylesheet" href="index.css" />
             {favicon(index.data.favicon)}
             <title>{index.data.title}</title>
