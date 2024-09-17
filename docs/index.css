@@ -42,7 +42,8 @@ main {
     border-top: 3px dashed #ccc;
 }
 
-article {
+article,
+.related {
     margin-bottom: 3em;
     padding-bottom: 3em;
     border-bottom: 3px dashed #ccc;
@@ -55,6 +56,17 @@ a {
 
 a.block {
     color: var(--color);
+}
+
+.related {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.preview,
+.preview img {
+    max-width: 380px;
 }
 
 @media (max-width: 800px) {

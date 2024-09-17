@@ -4,6 +4,7 @@ import { marked } from 'marked'
 import path from 'path'
 import { h } from 'preact'
 import { render } from 'preact-render-to-string'
+import randomItem from 'random-item'
 
 interface Post {
     data: {
@@ -81,6 +82,14 @@ fs.writeFileSync(
     'docs/index.html',
     render(index_html))
 
+const postPreview = (post: Post) =>
+    <a class="block" href={htmlPath(post)}>
+        <div className="preview">
+            <img src={post.data.image} alt="" />
+            <h3>{post.data.title}</h3>
+            <p>{post.data.description}</p>
+        </div>
+    </a>
 
 function renderPost(post: Post) {
     fs.writeFileSync(
@@ -102,6 +111,13 @@ function renderPost(post: Post) {
                         <article>
                             <div dangerouslySetInnerHTML={{ __html: marked(post.content) as string }}></div>
                         </article>
+
+                        <div class="related">
+                            {randomItem.multiple(
+                                posts.filter(p => p.path !== post.path),
+                                2).map(postPreview)}
+                        </div>
+
                         <script defer src="https://i.emote.com/js/emote.js"></script>
                         <div id="emote_com"></div>
                     </main>
