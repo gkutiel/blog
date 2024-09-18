@@ -99,7 +99,10 @@ a.block {
     main,
     img {
         width: 98vw;
-        margin: 0;
+    }
+
+    main {
+        margin: 3em 0;
     }
 
     .related {
