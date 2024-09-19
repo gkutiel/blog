@@ -14,6 +14,17 @@ favicon: 🧘
 
 היום, אחרי שעברתי את גיל 45, אני מקפיד שוב על אורח חיים בריא ומרגיש טוב יותר מאי פעם.
 
+<iframe 
+width=800
+height=450
+src="https://www.youtube.com/embed/zHD6OVPnfwc?si=4c2avGoDvLbfQe91" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
+
+
 בשונה מתחילת שנות ה-90, כיום האינטרנט מוצף בתוכן בנוגע לאורח חיים בריא – אך לא כל התוכן אמין או מבוסס. דווקא בנושאים שקשורים לבריאותנו, חשוב לסנן את המידע ולוודא שהוא מגיע ממקורות מהימנים.
 
 שמי גלעד, אני נשוי לטליה ואב ליואב ויעל. יש לי תואר דוקטור במדעי המחשב מהטכניון, ואני מקפיד על אורח חיים בריא. מטרת הבלוג הזה היא להנגיש מידע אמין וברור המבוסס על מקורות מדעיים. כל פוסט יתבסס על סקירת מאמרים שפורסמו בכתבי עת מוכרים ושעברו ביקורת עמיתים. בנוסף, אשתף מהניסיון האישי שלי לאורך הדרך.
