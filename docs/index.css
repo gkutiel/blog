@@ -94,10 +94,17 @@ a.block {
     max-width: 380px;
 }
 
+iframe {
+    width: 800px;
+    height: 450px;
+}
+
+
 @media (max-width: 800px) {
 
     main,
-    img {
+    img,
+    iframe {
         width: 98vw;
     }
 
@@ -109,5 +116,9 @@ a.block {
         flex-direction: column;
         align-items: center;
         font-size: smaller;
+    }
+
+    iframe {
+        height: 55vw;
     }
 }

@@ -21,8 +21,6 @@ favicon: 🧘
 שמי גלעד, אני נשוי לטליה ואב ליואב ויעל. יש לי תואר דוקטור במדעי המחשב מהטכניון, ואני מקפיד על אורח חיים בריא. מטרת הבלוג הזה היא להנגיש מידע אמין וברור המבוסס על מקורות מדעיים. כל פוסט יתבסס על סקירת מאמרים שפורסמו בכתבי עת מוכרים ושעברו ביקורת עמיתים. בנוסף, אשתף מהניסיון האישי שלי לאורך הדרך.
 
 <iframe 
-width=800
-height=450
 src="https://www.youtube.com/embed/mcOmWqc8O64?si=AtYI3WW7uaVytzlT" 
 title="YouTube video player" 
 frameborder="0" 
