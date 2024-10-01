@@ -2,6 +2,8 @@
 
 :root {
     --color: #333;
+    --hr: 2px dashed #ccc;
+    --gap: 1em 0;
 }
 
 * {
@@ -47,6 +49,7 @@ menu a {
 main,
 img {
     max-width: 800px;
+    margin: var(--gap);
 }
 
 main {
@@ -55,23 +58,16 @@ main {
     line-height: 1.5;
 }
 
-.row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+h1 {
+    font-weight: 600;
 }
 
-.post {
-    margin-top: 3em;
-    padding-top: 3em;
-    border-top: 3px dashed #ccc;
-}
-
-article,
-.related {
-    margin-bottom: 3em;
-    padding-bottom: 3em;
-    border-bottom: 3px dashed #ccc;
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
 }
 
 a {
@@ -83,7 +79,70 @@ a.block {
     color: var(--color);
 }
 
+blockquote {
+    font-style: italic;
+    color: #666;
+    border-right: 3px solid #ccc;
+    padding-right: 1em;
+}
+
+blockquote p::before {
+    content: '‟';
+    font-size: 1.2em;
+}
+
+blockquote p::after {
+    content: '”';
+    font-size: 1.2em;
+}
+
+code {
+    font-family: "Inconsolata", monospace;
+    padding: 0 0.3em;
+    color: #f5d67b;
+    background-color: #333;
+}
+
+pre {
+    display: block;
+    padding: var(--gap);
+}
+
+pre code {
+    display: block;
+    padding: 1em;
+    border-radius: 3px;
+    overflow-x: auto;
+    line-height: normal;
+}
+
+
+iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.row.center {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post {
+    margin-top: 3em;
+    padding-top: 3em;
+    border-top: var(--hr);
+}
+
 .related {
+    margin: 2em 0;
+    padding: 2em 0;
+    border-top: var(--hr);
+    border-bottom: var(--hr);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -102,14 +161,9 @@ a.block {
 }
 
 .author {
-    margin-bottom: 1em;
     color: #666;
 }
 
-iframe {
-    width: 800px;
-    height: 450px;
-}
 
 
 @media (max-width: 800px) {
@@ -124,13 +178,13 @@ iframe {
         margin: 3em 0;
     }
 
+    iframe {
+        height: 55vw;
+    }
+
     .related {
         flex-direction: column;
         align-items: center;
         font-size: smaller;
-    }
-
-    iframe {
-        height: 55vw;
     }
 }
