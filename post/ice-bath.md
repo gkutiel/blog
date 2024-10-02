@@ -53,11 +53,3 @@ favicon: 🛀
 
 2. **התחממות קלה**: מומלץ לבצע חימום קל לפני הכניסה למים הקרים, כמו מתיחות או הליכה קלה, כדי להגביר את זרימת הדם ולמנוע שוק חמור מדי במעבר לקור.
 
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9518606/
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6204981/
-- https://pubmed.ncbi.nlm.nih.gov/26924539/
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8470111/pdf/ijerph-18-09725.pdf
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9273773/
-- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/EP086283
-- https://www.npr.org/sections/health-shots/2023/10/08/1204411415/cold-plunge-health-benefits-how-to
-- https://scholar.google.com/scholar?as_ylo=2020&q=Cold+water+immersion&hl=en&as_sdt=0,5
