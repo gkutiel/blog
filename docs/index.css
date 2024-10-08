@@ -109,7 +109,7 @@ a.block {
 blockquote {
     font-style: italic;
     color: #666;
-    border-left: 3px solid #ccc;
+    border-right: 3px solid #ccc;
     padding-left: 1em;
 }
 
