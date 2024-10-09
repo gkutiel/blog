@@ -98,10 +98,7 @@ h4 {
 
 
 a {
-    /* color: #007bff; */
     color: #00D9C0;
-    /* color: #6A8E7F; */
-    /* font-weight: bolder; */
     text-decoration: none;
 }
 
@@ -113,7 +110,7 @@ blockquote {
     font-style: italic;
     color: #666;
     border-right: 3px solid #ccc;
-    padding-left: 1em;
+    padding-right: 1em;
 }
 
 blockquote p:first-child:before {
