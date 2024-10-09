@@ -98,7 +98,10 @@ h4 {
 
 
 a {
-    color: #007bff;
+    /* color: #007bff; */
+    color: #00D9C0;
+    /* color: #6A8E7F; */
+    /* font-weight: bolder; */
     text-decoration: none;
 }
 
