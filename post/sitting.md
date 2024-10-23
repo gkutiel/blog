@@ -1,12 +1,8 @@
 ---
-lang: he 
-
-title: ישיבה
+date: 2030-01-01
 author: גלעד קותיאל
-date: 2030-1-1
-
+title: ישיבה
 description: ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך היום כדי לשמור על אורח חיים בריא.
-
 image: img/sitting.jpg
 favicon: 💺
 ---

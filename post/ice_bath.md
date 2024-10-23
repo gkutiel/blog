@@ -1,12 +1,8 @@
 ---
-lang: he 
-
-title: אמבטיות קרח
+date: 2030-01-01
 author: גלעד קותיאל
-date: 2030-1-1
-
+title: אמבטיות קרח
 description: אמבטיות קרח יכולות לשפר את הבריאות על ידי הפחתת דלקת והקלה על כאבים, אך יש לבצע אותן בזהירות ובפיקוח רפואי.
-
 image: img/ice.jpg
 favicon: 🛀
 ---

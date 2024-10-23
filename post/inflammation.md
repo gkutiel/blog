@@ -1,12 +1,8 @@
 ---
-lang: he 
-
-title: דלקות
+date: 2030-01-01
 author: גלעד קותיאל
-date: 2030-1-1
-
+title: דלקות
 description: דלקות ספורט הן פציעות הנגרמות מעומס יתר או חבלה, ומשפיעות על גידים, שרירים ומפרקים, כאשר מנוחה וטיפול מתאים נדרשים להחלמה והחזרה הדרגתית לפעילות.
-
 image: img/inflammation.jpg
 favicon: 🤕
 ---

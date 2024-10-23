@@ -1,122 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>הבלוג לאורח חיים בריא</title>
-        <link>https://gilad.kutiel.com</link>
-        <description>בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.</description>
-        <lastBuildDate>Tue, 22 Oct 2024 05:43:35 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>blgit</generator>
-        <image>
-            <title>הבלוג לאורח חיים בריא</title>
-            <url>https://gilad.kutiel.com/img/cover.jpg</url>
-            <link>https://gilad.kutiel.com</link>
-        </image>
-        <copyright>All rights reserved 2024, undefined</copyright>
-        <atom:link href="https://gilad.kutiel.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[כיצד מבצעים ניסוי מדעי?]]></title>
-            <link>https://gilad.kutiel.com/randomized_controlled_trial.html</link>
-            <guid>https://gilad.kutiel.com/randomized_controlled_trial.html</guid>
-            <pubDate>Tue, 01 Oct 2024 21:00:00 GMT</pubDate>
-            <description><![CDATA[ביצוע ניסוי מדעי בצורה נכונה חיוני להסקת מסקנות מהימנות. ללא הקפדה על עקרונות מדעיים ברורים, תוצאות הניסוי עלולות להטעות ולגרום לפרשנות שגויה של הנתונים.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/random.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[סוכר]]></title>
-            <link>https://gilad.kutiel.com/sugar.html</link>
-            <guid>https://gilad.kutiel.com/sugar.html</guid>
-            <pubDate>Tue, 08 Oct 2024 21:00:00 GMT</pubDate>
-            <description><![CDATA[צריכת סוכר מופרזת עלולה להוביל לבעיות בריאותיות כמו השמנה, סוכרת, מחלות לב, פגיעה בשיניים, מצבי דלקת ושינויים במצב הרוח.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/sugar.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[מים]]></title>
-            <link>https://gilad.kutiel.com/water.html</link>
-            <guid>https://gilad.kutiel.com/water.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[שתיית מים חיונית לבריאות הגוף, תומכת בתהליכים כמו וויסות טמפרטורה וסילוק רעלים, ומונעת התייבשות שיכולה לגרום לעייפות וכאבי ראש. מומלץ לשתות לפחות 8 כוסות ביום.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/water.webp" length="0" type="image/webp"/>
-        </item>
-        <item>
-            <title><![CDATA[שמש]]></title>
-            <link>https://gilad.kutiel.com/sun.html</link>
-            <guid>https://gilad.kutiel.com/sun.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[חשיפה מתונה ומוגנת לשמש תורמת לבריאות הגוף, אך יש להיזהר מחשיפה מוגזמת שעלולה להזיק לעור.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/sun.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[שינה]]></title>
-            <link>https://gilad.kutiel.com/sleep.html</link>
-            <guid>https://gilad.kutiel.com/sleep.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[שינה היא תהליך חיוני לשיקום הגוף והנפש, המשפר תפקוד קוגניטיבי ובריאות כללית, בעוד שמחסור בשינה עלול לגרום להשלכות בריאותיות חמורות.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/sleep.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ישיבה]]></title>
-            <link>https://gilad.kutiel.com/sitting.html</link>
-            <guid>https://gilad.kutiel.com/sitting.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך היום כדי לשמור על אורח חיים בריא.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/sitting.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[חלבונים]]></title>
-            <link>https://gilad.kutiel.com/protein.html</link>
-            <guid>https://gilad.kutiel.com/protein.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[חלבונים חשובים לאורח חיים בריא בכך שהם תומכים בבניית שרירים, תיקון רקמות ושמירה על מערכת חיסון. צריכתם עוזרת לתחושת שובע ולניהול משקל, וחשוב לשלבם בתזונה מאוזנת יחד עם פעילות גופנית ושינה מספקת.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/protein.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[עיסויים]]></title>
-            <link>https://gilad.kutiel.com/massage.html</link>
-            <guid>https://gilad.kutiel.com/massage.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[עיסויים תורמים לשיפור הבריאות על ידי הקלה על מתח וכאבים, שיפור זרימת הדם ואיכות השינה, ומשלבים טוב עם פעילות גופנית ותזונה נכונה.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/massage.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[דלקות]]></title>
-            <link>https://gilad.kutiel.com/inflammation.html</link>
-            <guid>https://gilad.kutiel.com/inflammation.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[דלקות ספורט הן פציעות הנגרמות מעומס יתר או חבלה, ומשפיעות על גידים, שרירים ומפרקים, כאשר מנוחה וטיפול מתאים נדרשים להחלמה והחזרה הדרגתית לפעילות.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/inflammation.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[אמבטיות קרח]]></title>
-            <link>https://gilad.kutiel.com/ice_bath.html</link>
-            <guid>https://gilad.kutiel.com/ice_bath.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[אמבטיות קרח יכולות לשפר את הבריאות על ידי הפחתת דלקת והקלה על כאבים, אך יש לבצע אותן בזהירות ובפיקוח רפואי.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/ice.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[צום]]></title>
-            <link>https://gilad.kutiel.com/fast.html</link>
-            <guid>https://gilad.kutiel.com/fast.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[צום לסירוגין, כאשר מבוצע בצורה מאוזנת, עשוי לתרום לשיפור הבריאות על ידי שיפור חילוף החומרים, איזון רמות הסוכר, וסיוע במניעת מחלות כרוניות.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/fast.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[קפה]]></title>
-            <link>https://gilad.kutiel.com/coffee.html</link>
-            <guid>https://gilad.kutiel.com/coffee.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[קפה הוא משקה פופולרי שמגביר עירנות ויכול לסייע במניעת מחלות כמו סוכרת ומחלות לב, אך צריכתו המופרזת עלולה לגרום לבעיות כמו קשיי שינה ותלות.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/coffee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[נשימה]]></title>
-            <link>https://gilad.kutiel.com/breath.html</link>
-            <guid>https://gilad.kutiel.com/breath.html</guid>
-            <pubDate>Mon, 31 Dec 2029 22:00:00 GMT</pubDate>
-            <description><![CDATA[נשימה נכונה משפרת את הבריאות הכללית על ידי הפחתת מתח, שיפור ריכוז ואנרגיה, ותמיכה באיזון פיזי ומנטלי.]]></description>
-            <enclosure url="https://gilad.kutiel.com/img/breath.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>הבלוג לאורח חיים בריא</title>
+    <link>https://gilad.kutiel.com</link>
+    <description>בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 23 Oct 2024 20:17:17 +0000</lastBuildDate>
+    <item>
+      <title>דלקות</title>
+      <link>https://gilad.kutiel.com/inflammation.html</link>
+      <description>דלקות ספורט הן פציעות הנגרמות מעומס יתר או חבלה, ומשפיעות על גידים, שרירים ומפרקים, כאשר מנוחה וטיפול מתאים נדרשים להחלמה והחזרה הדרגתית לפעילות.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>אמבטיות קרח</title>
+      <link>https://gilad.kutiel.com/ice_bath.html</link>
+      <description>אמבטיות קרח יכולות לשפר את הבריאות על ידי הפחתת דלקת והקלה על כאבים, אך יש לבצע אותן בזהירות ובפיקוח רפואי.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>מים</title>
+      <link>https://gilad.kutiel.com/water.html</link>
+      <description>שתיית מים חיונית לבריאות הגוף, תומכת בתהליכים כמו וויסות טמפרטורה וסילוק רעלים, ומונעת התייבשות שיכולה לגרום לעייפות וכאבי ראש. מומלץ לשתות לפחות 8 כוסות ביום.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>צום</title>
+      <link>https://gilad.kutiel.com/fast.html</link>
+      <description>צום לסירוגין, כאשר מבוצע בצורה מאוזנת, עשוי לתרום לשיפור הבריאות על ידי שיפור חילוף החומרים, איזון רמות הסוכר, וסיוע במניעת מחלות כרוניות.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>שמש</title>
+      <link>https://gilad.kutiel.com/sun.html</link>
+      <description>חשיפה מתונה ומוגנת לשמש תורמת לבריאות הגוף, אך יש להיזהר מחשיפה מוגזמת שעלולה להזיק לעור.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ישיבה</title>
+      <link>https://gilad.kutiel.com/sitting.html</link>
+      <description>ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך היום כדי לשמור על אורח חיים בריא.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>שינה</title>
+      <link>https://gilad.kutiel.com/sleep.html</link>
+      <description>שינה היא תהליך חיוני לשיקום הגוף והנפש, המשפר תפקוד קוגניטיבי ובריאות כללית, בעוד שמחסור בשינה עלול לגרום להשלכות בריאותיות חמורות.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>חלבונים</title>
+      <link>https://gilad.kutiel.com/protein.html</link>
+      <description>חלבונים חשובים לאורח חיים בריא בכך שהם תומכים בבניית שרירים, תיקון רקמות ושמירה על מערכת חיסון. צריכתם עוזרת לתחושת שובע ולניהול משקל, וחשוב לשלבם בתזונה מאוזנת יחד עם פעילות גופנית ושינה מספקת.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>נשימה</title>
+      <link>https://gilad.kutiel.com/breath.html</link>
+      <description>נשימה נכונה משפרת את הבריאות הכללית על ידי הפחתת מתח, שיפור ריכוז ואנרגיה, ותמיכה באיזון פיזי ומנטלי.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>קפה</title>
+      <link>https://gilad.kutiel.com/coffee.html</link>
+      <description>קפה הוא משקה פופולרי שמגביר עירנות ויכול לסייע במניעת מחלות כמו סוכרת ומחלות לב, אך צריכתו המופרזת עלולה לגרום לבעיות כמו קשיי שינה ותלות.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>עיסויים</title>
+      <link>https://gilad.kutiel.com/massage.html</link>
+      <description>עיסויים תורמים לשיפור הבריאות על ידי הקלה על מתח וכאבים, שיפור זרימת הדם ואיכות השינה, ומשלבים טוב עם פעילות גופנית ותזונה נכונה.</description>
+      <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>סוכר</title>
+      <link>https://gilad.kutiel.com/sugar.html</link>
+      <description>צריכת סוכר מופרזת עלולה להוביל לבעיות בריאותיות כמו השמנה, סוכרת, מחלות לב, פגיעה בשיניים, מצבי דלקת ושינויים במצב הרוח.</description>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>כיצד מבצעים ניסוי מדעי?</title>
+      <link>https://gilad.kutiel.com/randomized_controlled_trial.html</link>
+      <description>ביצוע ניסוי מדעי בצורה נכונה חיוני להסקת מסקנות מהימנות. ללא הקפדה על עקרונות מדעיים ברורים, תוצאות הניסוי עלולות להטעות ולגרום לפרשנות שגויה של הנתונים.</description>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
 </rss>

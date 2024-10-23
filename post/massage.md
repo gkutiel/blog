@@ -1,12 +1,8 @@
 ---
-lang: he 
-
-title: עיסויים
+date: 2030-01-01
 author: גלעד קותיאל
-date: 2030-1-1
-
+title: עיסויים
 description: עיסויים תורמים לשיפור הבריאות על ידי הקלה על מתח וכאבים, שיפור זרימת הדם ואיכות השינה, ומשלבים טוב עם פעילות גופנית ותזונה נכונה.
-
 image: img/massage.jpg
 favicon: 💆
 ---
