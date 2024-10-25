@@ -102,8 +102,8 @@ a.block {
 blockquote {
     font-style: italic;
     color: #666;
-    border-left: 3px solid #ccc;
-    padding-left: 1em;
+    border-right: 3px solid #ccc;
+    padding-right: 1em;
 }
 
 blockquote p:first-child:before {
@@ -144,15 +144,19 @@ iframe {
     height: 450px;
 }
 
+.flex,
 .row {
     display: flex;
     flex-direction: row;
 }
 
+.flex.center,
 .row.center {
     justify-content: space-between;
     align-items: center;
 }
+
+
 
 .post {
     margin-top: var(--gap-x-large);
@@ -269,4 +273,11 @@ tr:nth-child(even) {
         font-size: smaller;
     }
 
+    .flex {
+        flex-direction: column;
+    }
+
+    .flex.center {
+        align-items: center;
+    }
 }
