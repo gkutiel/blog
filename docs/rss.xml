@@ -6,7 +6,7 @@
     <description>בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Oct 2024 07:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 15:32:03 +0000</lastBuildDate>
     <item>
       <title>דלקות</title>
       <link>https://gilad.kutiel.com/inflammation.html</link>
@@ -72,6 +72,12 @@
       <link>https://gilad.kutiel.com/massage.html</link>
       <description>עיסויים תורמים לשיפור הבריאות על ידי הקלה על מתח וכאבים, שיפור זרימת הדם ואיכות השינה, ומשלבים טוב עם פעילות גופנית ותזונה נכונה.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>מזנות על</title>
+      <link>https://gilad.kutiel.com/super_food.html</link>
+      <description>מזונות על הם מזונות עשירים בערכים תזונתיים כמו ויטמינים, מינרלים ונוגדי חמצון, שמסייעים בחיזוק מערכת החיסון, תפקוד הלב ושמירה על אנרגיה גבוהה. שילובם בתזונה כחלק מאורח חיים בריא מספק לגוף רכיבים טבעיים החיוניים לבריאות ולמניעת מחלות.</description>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>סאונה וג'קוזי</title>
