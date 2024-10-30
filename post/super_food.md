@@ -1,7 +1,7 @@
 ---
 date: 2024-10-28
 author: Gilad Kutiel
-title: מזנות על
+title: מזונות על
 description: מזונות על הם מזונות עשירים בערכים תזונתיים כמו ויטמינים, מינרלים ונוגדי חמצון, שמסייעים בחיזוק מערכת החיסון, תפקוד הלב ושמירה על אנרגיה גבוהה. שילובם בתזונה כחלק מאורח חיים בריא מספק לגוף רכיבים טבעיים החיוניים לבריאות ולמניעת מחלות.
 image: superfood.jpg
 favicon: 🦸
