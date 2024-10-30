@@ -1,13 +1,11 @@
 ---
-date: 2030-01-01
+date: 2024-10-30
 author: גלעד קותיאל
 title: אמבטיות קרח
 description: אמבטיות קרח נחשבות כמועילות להפחתת דלקות, הקלה על כאבי שרירים, שיפור המערכת החיסונית ועוד, אך אילו מהסגולות הללו אכן נתמכות במחקר מדעי?
 image: img/ice.jpg
 favicon: 🛀
 ---
-
-https://bit.ly/47UtqqZ
 
 אמבטיות קרח, הפכו לפופולריות בשנים האחרונות ונתפסות בעיני רבים ככלי לשיפור הבריאות ואורח חיים בריא. 
 לחשיפה למים קרים מיוחסות מספר סגולות  כגון שיפור מחזור	 הדם, חיזוק המערכת החיסונית, הפחתת דלקת והקלה על כאבים בשרירים לאחר אימונים אינטנסיביים.
@@ -24,15 +22,18 @@ https://bit.ly/47UtqqZ
 
 [קריותרפיה](https://en.wikipedia.org/wiki/Cryotherapy) היא האחות המופרעת של אמבטיית הקרח, שבה הגוף נחשף לאוויר קר בטמפרטורה של 100°- ועד 190°- (מינוס מאה תשעים מעלות צלסיוס!) למשך 3 עד 4 דקות בתוך מתקן ייעודי.
 
-1: Doets JJR, Topper M, Nugter AM. A systematic review and meta-analysis of the
-effect of whole body cryotherapy on mental health problems. Complement Ther Med.
-2021 Dec;63:102783. doi: 10.1016/j.ctim.2021.102783. Epub 2021 Oct 14. PMID:
-34655758.
+### חשיפה לקור ככלי לטיפול בדיכאון
 
-2: Douzi W, Dupuy O, Tanneau M, Boucard G, Bouzigon R, Dugué B. 3-min whole body
-cryotherapy/cryostimulation after training in the evening improves sleep quality
-in physically active men. Eur J Sport Sci. 2019 Jul;19(6):860-867. doi:
-10.1080/17461391.2018.1551937. Epub 2018 Dec 14. PMID: 30551730.
+במטא-אנליזה [שבדקה את האפקט של קריותרפיה על בריאות הנפש](https://pubmed.ncbi.nlm.nih.gov/34655758/), נמצא שהטיפול מפחית באופן ניכר סימפטומים של דיכאון. 
+עם זאת, ראוי לציין שמתוך 196 מחקרים שנסרקו, רק 10 עמדו בקריטריונים שנבחרו על ידי החוקרים, ומתוכם רק 6 היו מחקרים מבוקרים, שנעשו על סך הכל 294 נבדקים. 
+בעוד שתוצאות המחקרים מראות שיפור משמעותי אצל כלל הנבדקים, ההבדלים בין הנבדקים היו גדולים, וקשה להסיק מתוצאות המחקרים מסקנה גורפת.
+
+### חשיפה לקור ככלי לשיפור איכות השינה
+
+[מחקר](https://pubmed.ncbi.nlm.nih.gov/30551730/) שנערך על 22 נבדקים בדק האם קריותרפיה לאחר אימון ערב תורמת לשיפור איכות השינה. 
+הנבדקים התבקשו לבצע ריצת ערב במשך 25 דקות, ולאחר מכן קבוצת הטיפול עברה טיפול קריותרפיה בטמפרטורה של מינוס 40° צלזיוס למשך 3 דקות, בעוד קבוצת הביקורת עברה התאוששות פסיבית. 
+תוצאות המחקר הראו שאיכות השינה של קבוצת הטיפול הייתה טובה יותר, הן מבחינה סובייקטיבית (על ידי מילוי שאלונים) והן מבחינה אובייקטיבית (על ידי בדיקת אא"ג). 
+עם זאת, התוצאות תקפות בעיקר עבור מתאמנים שרצים בערב, ואי אפשר להסיק מהמחקר מסקנות גורפות לגבי כלל האוכלוסייה.
 
 3: Louis J, Theurot D, Filliard JR, Volondat M, Dugué B, Dupuy O. The use of
 whole-body cryotherapy: time- and dose-response investigation on circulating
