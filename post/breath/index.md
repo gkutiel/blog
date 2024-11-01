@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: נשימה
 description: נשימה נכונה משפרת את הבריאות הכללית על ידי הפחתת מתח, שיפור ריכוז ואנרגיה, ותמיכה באיזון פיזי ומנטלי.
-image: img/breath.jpg
+image: /img/breath.jpg
 favicon: 🫁
 ---
 

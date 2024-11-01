@@ -3,7 +3,7 @@ date: 2024-10-02
 author: גלעד קותיאל
 title: כיצד מבצעים ניסוי מדעי?
 description: ביצוע ניסוי מדעי בצורה נכונה חיוני להסקת מסקנות מהימנות. ללא הקפדה על עקרונות מדעיים ברורים, תוצאות הניסוי עלולות להטעות ולגרום לפרשנות שגויה של הנתונים.
-image: img/random.jpg
+image: /img/random.jpg
 favicon: 🔬
 ---
 
