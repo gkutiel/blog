@@ -59,7 +59,7 @@ favicon: 🛀
 לאחר מכן ביצעתי תרגול נשימות קצר בסגנון [וים הוף](https://www.youtube.com/watch?v=tybOi4hjZFQ).
 רגע לפני הכניסה לאמבטיה תרגלתי שוב נשימה אטית ורגועה מספר שניות.
 
-![אמבטיית קרח](cold_exposure_me.jpg)
+![אמבטיית קרח](me.jpg)
 
 עם הכניסה לאמבטיה חשתי כאב חזק בכפות הרגליים ותחושת אי נוחות כללית, אך לא הרגשתי סכנה כפי שחלק מהמתרגלים מתארים. 
 במשך כדקה (לפי הערכתי) ניהלתי מאבק פנימי אם לצאת או להישאר - מאבק שהיה בעיקר מנטלי, וההכנה שעשיתי לפני הכניסה עזרה לי מאוד.
