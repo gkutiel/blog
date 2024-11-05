@@ -6,100 +6,100 @@
     <description>בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 05:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 18:51:17 +0000</lastBuildDate>
     <item>
       <title>חלבונים</title>
-      <link>https://gilad.kutiel.com/protein/</link>
+      <link>https://gilad.kutiel.com/protein/index.html/</link>
       <description>חלבונים חשובים לאורח חיים בריא בכך שהם תומכים בבניית שרירים, תיקון רקמות ושמירה על מערכת חיסון. צריכתם עוזרת לתחושת שובע ולניהול משקל, וחשוב לשלבם בתזונה מאוזנת יחד עם פעילות גופנית ושינה מספקת.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>עיסויים</title>
-      <link>https://gilad.kutiel.com/massage/</link>
+      <link>https://gilad.kutiel.com/massage/index.html/</link>
       <description>עיסויים תורמים לשיפור הבריאות על ידי הקלה על מתח וכאבים, שיפור זרימת הדם ואיכות השינה, ומשלבים טוב עם פעילות גופנית ותזונה נכונה.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ישיבה</title>
-      <link>https://gilad.kutiel.com/sitting/</link>
+      <link>https://gilad.kutiel.com/sitting/index.html/</link>
       <description>ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך היום כדי לשמור על אורח חיים בריא.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>מזונות על</title>
-      <link>https://gilad.kutiel.com/super_food/</link>
+      <link>https://gilad.kutiel.com/super_food/index.html/</link>
       <description>מזונות על הם מזונות עשירים בערכים תזונתיים כמו ויטמינים, מינרלים ונוגדי חמצון, שמסייעים בחיזוק מערכת החיסון, תפקוד הלב ושמירה על אנרגיה גבוהה. שילובם בתזונה כחלק מאורח חיים בריא מספק לגוף רכיבים טבעיים החיוניים לבריאות ולמניעת מחלות.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>סאונה וג'קוזי</title>
-      <link>https://gilad.kutiel.com/sauna/</link>
+      <link>https://gilad.kutiel.com/sauna/index.html/</link>
       <description>סאונה וג'קוזי יכולים לתרום לאורח חיים בריא בכך שהם מסייעים בהרפיית שרירים, שיפור זרימת הדם והפחתת מתח נפשי. השימוש בחום הסאונה מעודד ניקוי רעלים וחיזוק מערכת החיסון, בעוד הג'קוזי מרגיע את הגוף ומפחית מתחים.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>מים</title>
-      <link>https://gilad.kutiel.com/water/</link>
+      <link>https://gilad.kutiel.com/water/index.html/</link>
       <description>שתיית מים חיונית לבריאות הגוף, תומכת בתהליכים כמו וויסות טמפרטורה וסילוק רעלים, ומונעת התייבשות שיכולה לגרום לעייפות וכאבי ראש. מומלץ לשתות לפחות 8 כוסות ביום.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>נשימה</title>
-      <link>https://gilad.kutiel.com/breath/</link>
+      <link>https://gilad.kutiel.com/breath/index.html/</link>
       <description>נשימה נכונה משפרת את הבריאות הכללית על ידי הפחתת מתח, שיפור ריכוז ואנרגיה, ותמיכה באיזון פיזי ומנטלי.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>קפה</title>
-      <link>https://gilad.kutiel.com/coffee/</link>
+      <link>https://gilad.kutiel.com/coffee/index.html/</link>
       <description>קפה הוא משקה פופולרי שמגביר עירנות ויכול לסייע במניעת מחלות כמו סוכרת ומחלות לב, אך צריכתו המופרזת עלולה לגרום לבעיות כמו קשיי שינה ותלות.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>צום</title>
-      <link>https://gilad.kutiel.com/fast/</link>
+      <link>https://gilad.kutiel.com/fast/index.html/</link>
       <description>צום לסירוגין, כאשר מבוצע בצורה מאוזנת, עשוי לתרום לשיפור הבריאות על ידי שיפור חילוף החומרים, איזון רמות הסוכר, וסיוע במניעת מחלות כרוניות.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>שינה</title>
-      <link>https://gilad.kutiel.com/sleep/</link>
+      <link>https://gilad.kutiel.com/sleep/index.html/</link>
       <description>שינה היא תהליך חיוני לשיקום הגוף והנפש, המשפר תפקוד קוגניטיבי ובריאות כללית, בעוד שמחסור בשינה עלול לגרום להשלכות בריאותיות חמורות.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>דלקות</title>
-      <link>https://gilad.kutiel.com/inflammation/</link>
+      <link>https://gilad.kutiel.com/inflammation/index.html/</link>
       <description>דלקת היא תגובה של מערכת החיסון לנזק או זיהום, שמטרתה להגן על הגוף, אך במצבה הכרוני עלולה להזיק לרקמות בריאות.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>שמש</title>
-      <link>https://gilad.kutiel.com/sun/</link>
+      <link>https://gilad.kutiel.com/sun/index.html/</link>
       <description>חשיפה מתונה ומוגנת לשמש תורמת לבריאות הגוף, אך יש להיזהר מחשיפה מוגזמת שעלולה להזיק לעור.</description>
       <pubDate>Tue, 01 Jan 2030 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>יחפנות</title>
-      <link>https://gilad.kutiel.com/barefoot/</link>
+      <link>https://gilad.kutiel.com/barefoot/index.html/</link>
       <description>נעלי Barefoot מעוצבות כדי לדמות הליכה יחפה, מחזקות את שרירי כף הרגל, משפרות יציבה ומפחיתות עומס על המפרקים, מה שתורם לאורח חיים בריא יותר.</description>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>חשיפה לקור</title>
-      <link>https://gilad.kutiel.com/cold_exposure/</link>
+      <link>https://gilad.kutiel.com/cold_exposure/index.html/</link>
       <description>חשיפה לקור נחשבת כמועילה להפחתת דלקות, הקלה על כאבי שרירים, שיפור המערכת החיסונית ועוד, אך אילו מהסגולות הללו אכן נתמכות במחקר מדעי?</description>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>סוכר</title>
-      <link>https://gilad.kutiel.com/sugar/</link>
+      <link>https://gilad.kutiel.com/sugar/index.html/</link>
       <description>צריכת סוכר מופרזת עלולה להוביל לבעיות בריאותיות כמו השמנה, סוכרת, מחלות לב, פגיעה בשיניים, מצבי דלקת ושינויים במצב הרוח.</description>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>כיצד מבצעים ניסוי?</title>
-      <link>https://gilad.kutiel.com/randomized_controlled_trial/</link>
+      <link>https://gilad.kutiel.com/randomized_controlled_trial/index.html/</link>
       <description>ביצוע ניסוי בצורה נכונה חיוני להסקת מסקנות מהימנות. ללא הקפדה על עקרונות מדעיים ברורים, תוצאות הניסוי עלולות להטעות ולגרום לפרשנות שגויה של הנתונים.</description>
       <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
     </item>

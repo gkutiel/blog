@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: מזונות על
 description: מזונות על הם מזונות עשירים בערכים תזונתיים כמו ויטמינים, מינרלים ונוגדי חמצון, שמסייעים בחיזוק מערכת החיסון, תפקוד הלב ושמירה על אנרגיה גבוהה. שילובם בתזונה כחלק מאורח חיים בריא מספק לגוף רכיבים טבעיים החיוניים לבריאות ולמניעת מחלות.
-image: superfood.jpg
+image: img/superfood.jpg
 favicon: 🦸
 ---
 

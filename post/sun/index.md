@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: שמש
 description: חשיפה מתונה ומוגנת לשמש תורמת לבריאות הגוף, אך יש להיזהר מחשיפה מוגזמת שעלולה להזיק לעור.
-image: /img/sun.jpg
+image: img/sun.jpg
 favicon: ☀️
 ---
 

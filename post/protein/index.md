@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: חלבונים
 description: חלבונים חשובים לאורח חיים בריא בכך שהם תומכים בבניית שרירים, תיקון רקמות ושמירה על מערכת חיסון. צריכתם עוזרת לתחושת שובע ולניהול משקל, וחשוב לשלבם בתזונה מאוזנת יחד עם פעילות גופנית ושינה מספקת.
-image: /img/protein.jpg
+image: img/protein.jpg
 favicon: 🥚
 ---
 

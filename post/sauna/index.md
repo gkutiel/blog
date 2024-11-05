@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: סאונה וג'קוזי
 description: סאונה וג'קוזי יכולים לתרום לאורח חיים בריא בכך שהם מסייעים בהרפיית שרירים, שיפור זרימת הדם והפחתת מתח נפשי. השימוש בחום הסאונה מעודד ניקוי רעלים וחיזוק מערכת החיסון, בעוד הג'קוזי מרגיע את הגוף ומפחית מתחים.
-image: sauna.jpg
+image: img/sauna.jpg
 favicon: 🧖
 ---
 

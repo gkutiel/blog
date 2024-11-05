@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: שינה
 description: שינה היא תהליך חיוני לשיקום הגוף והנפש, המשפר תפקוד קוגניטיבי ובריאות כללית, בעוד שמחסור בשינה עלול לגרום להשלכות בריאותיות חמורות.
-image: /img/sleep.jpg
+image: img/sleep.jpg
 favicon: 🛌
 ---
 

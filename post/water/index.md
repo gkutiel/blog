@@ -3,7 +3,7 @@ date: 2030-01-01
 author: גלעד קותיאל
 title: מים
 description: שתיית מים חיונית לבריאות הגוף, תומכת בתהליכים כמו וויסות טמפרטורה וסילוק רעלים, ומונעת התייבשות שיכולה לגרום לעייפות וכאבי ראש. מומלץ לשתות לפחות 8 כוסות ביום.
-image: /img/water.webp
+image: img/water.webp
 favicon: 🌊
 ---
 
