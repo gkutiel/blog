@@ -102,8 +102,8 @@ a.block {
 blockquote {
     font-style: italic;
     color: #666;
-    border-right: 3px solid #ccc;
-    padding-right: 1em;
+    border-left: 3px solid #ccc;
+    padding-left: 1em;
 }
 
 blockquote p:first-child:before {
@@ -144,19 +144,15 @@ iframe {
     height: 450px;
 }
 
-.flex,
 .row {
     display: flex;
     flex-direction: row;
 }
 
-.flex.center,
 .row.center {
     justify-content: space-between;
     align-items: center;
 }
-
-
 
 .post {
     margin-top: var(--gap-x-large);
@@ -212,6 +208,38 @@ th {
 
 tr:nth-child(even) {
     background-color: #f9f9f9;
+}
+
+.admonition {
+    padding: .5em 1em;
+    margin: 1em 0;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+    border-right: 5px solid;
+}
+
+.admonition p {
+    margin: 0;
+}
+
+.admonition.note {
+    background-color: #e8f4ff;
+    border-color: #007acc;
+}
+
+.admonition-title {
+    font-weight: 500;
+}
+
+.admonition.warn {
+    background-color: #fff8e5;
+    border-color: #ffb400;
+}
+
+.admonition.danger {
+    background-color: #ffe5e5;
+    border-color: #d9534f;
 }
 
 @media (max-width: 800px) {
@@ -278,11 +306,4 @@ tr:nth-child(even) {
         font-size: smaller;
     }
 
-    .flex {
-        flex-direction: column;
-    }
-
-    .flex.center {
-        align-items: center;
-    }
 }
