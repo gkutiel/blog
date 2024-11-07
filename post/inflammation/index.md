@@ -1,10 +1,12 @@
 ---
-date: 2030-01-01
 author: גלעד קותיאל
-title: דלקות
-description: דלקת היא תגובה של מערכת החיסון לנזק או זיהום, שמטרתה להגן על הגוף, אך במצבה הכרוני עלולה להזיק לרקמות בריאות.
-image: img/inflammation.jpg
+date: 2030-01-01
+description: דלקת היא תגובה של מערכת החיסון לנזק או זיהום, שמטרתה להגן על הגוף, אך
+  במצבה הכרוני עלולה להזיק לרקמות בריאות.
+draft: true
 favicon: 🤕
+image: img/inflammation.jpg
+title: דלקות
 ---
 
 ### מהי דליקת?

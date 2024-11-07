@@ -1,10 +1,12 @@
 ---
-date: 2024-10-30
 author: גלעד קותיאל
-title: חשיפה לקור
-description: חשיפה לקור נחשבת כמועילה להפחתת דלקות, הקלה על כאבי שרירים, שיפור המערכת החיסונית ועוד, אך אילו מהסגולות הללו אכן נתמכות במחקר מדעי?
-image: img/ice.jpg
+date: 2024-10-30
+description: חשיפה לקור נחשבת כמועילה להפחתת דלקות, הקלה על כאבי שרירים, שיפור המערכת
+  החיסונית ועוד, אך אילו מהסגולות הללו אכן נתמכות במחקר מדעי?
+draft: true
 favicon: 🛀
+image: img/ice.jpg
+title: חשיפה לקור
 ---
 
 חשיפה לקור, הפכה לפופולרית בשנים האחרונות ונתפסת בעיני רבים ככלי לשיפור הבריאות. 

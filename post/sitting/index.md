@@ -1,10 +1,12 @@
 ---
-date: 2030-01-01
 author: גלעד קותיאל
-title: ישיבה
-description: ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך היום כדי לשמור על אורח חיים בריא.
-image: img/sitting.jpg
+date: 2030-01-01
+description: ישיבה ממושכת מזיקה לבריאות, ולכן חשוב לשלב תנועה ופעילות גופנית במהלך
+  היום כדי לשמור על אורח חיים בריא.
+draft: true
 favicon: 💺
+image: img/sitting.jpg
+title: ישיבה
 ---
 
 ישיבה ממושכת הפכה לאחת הבעיות הבריאותיות המרכזיות בעידן המודרני, והיא משפיעה לרעה על אורח חיים בריא. מחקרים מראים כי ישיבה ממושכת עלולה להוביל לבעיות כמו השמנת יתר, כאבי גב, בעיות במפרקים, ואף להגביר את הסיכון למחלות לב וכלי דם. כדי להימנע מהנזקים הללו, מומלץ לשלב פעילות גופנית יומיומית, לקום ולהתמתח באופן קבוע במהלך היום, ולבחור בישיבה אקטיבית יותר, כמו ישיבה על כיסאות ארגונומיים או אפילו עמידה לפרקים. שילוב של תנועה מתמדת בשגרת היום תורם לשיפור הבריאות הכללית ולשמירה על איזון פיזי ונפשי.

@@ -1,10 +1,12 @@
 ---
-date: 2024-11-04
 author: גלעד קותיאל
-title: יחפנות
-description: נעלי Barefoot מעוצבות כדי לדמות הליכה יחפה, מחזקות את שרירי כף הרגל, משפרות יציבה ומפחיתות עומס על המפרקים, מה שתורם לאורח חיים בריא יותר.
-image: img/barefoot.jpg
+date: 2024-11-04
+description: נעלי Barefoot מעוצבות כדי לדמות הליכה יחפה, מחזקות את שרירי כף הרגל,
+  משפרות יציבה ומפחיתות עומס על המפרקים, מה שתורם לאורח חיים בריא יותר.
+draft: true
 favicon: 🦶
+image: img/barefoot.jpg
+title: יחפנות
 ---
 
 נעלי Barefoot (נעליים יחפות) הפכו לפופולריות בקרב אנשים המאמינים באורח חיים בריא ובגישה טבעית יותר לתנועה. 

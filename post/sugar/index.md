@@ -1,10 +1,12 @@
 ---
-date: 2024-10-09
 author: גלעד קותיאל
-title: סוכר
-description: צריכת סוכר מופרזת עלולה להוביל לבעיות בריאותיות כמו השמנה, סוכרת, מחלות לב, פגיעה בשיניים, מצבי דלקת ושינויים במצב הרוח.
-image: img/sugar.jpg
+date: 2024-10-09
+description: צריכת סוכר מופרזת עלולה להוביל לבעיות בריאותיות כמו השמנה, סוכרת, מחלות
+  לב, פגיעה בשיניים, מצבי דלקת ושינויים במצב הרוח.
+draft: true
 favicon: 🍩
+image: img/sugar.jpg
+title: סוכר
 ---
 
 ### איזה סוכר אנחנו צורכים?
