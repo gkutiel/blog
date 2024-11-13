@@ -93,6 +93,14 @@ title: כיצד מבצעים ניסוי?
 ישנם אתגרים, כמו השפעה פסיכולוגית של עצם ההשתתפות בניסוי, אך אפשר לצמצם את השפעות אלה בעזרת פלצבו או ניסוי עיוור. 
 כשלא ניתן לערוך ניסוי מבוקר, אפשר לבצע מחקר תצפיתי, אך אז נדרשות שיטות מורכבות יותר כדי להסיק מסקנות ברורות.
 
+<iframe 
+src="https://www.youtube.com/embed/MIq1_sf9ujo?si=GsHz8119C7XlrqjG" 
+title="YouTube video player" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
+
+
 
 
 
