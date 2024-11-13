@@ -94,7 +94,7 @@ title: כיצד מבצעים ניסוי?
 כשלא ניתן לערוך ניסוי מבוקר, אפשר לבצע מחקר תצפיתי, אך אז נדרשות שיטות מורכבות יותר כדי להסיק מסקנות ברורות.
 
 <iframe 
-src="https://www.youtube.com/embed/MIq1_sf9ujo?si=GsHz8119C7XlrqjG" 
+src="https://www.youtube.com/embed/ki1Iz8Wz9FQ?si=kuf0IReyM2q5SVIV" 
 title="YouTube video player" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 referrerpolicy="strict-origin-when-cross-origin" 
