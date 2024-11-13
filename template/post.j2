@@ -7,6 +7,10 @@
     <div class="author">{{author}} ︱ {{date.strftime(date_format or '%Y-%m-%d')}}</div>
 </div>
 
+{% if draft %}
+    <img src="/draft.webp" alt="draft post">
+{% endif %}
+
 <p>{{description}}</p>
 
 <img src="{{image}}" alt="{{title}}">

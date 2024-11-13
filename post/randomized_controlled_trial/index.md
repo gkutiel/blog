@@ -3,7 +3,7 @@ author: גלעד קותיאל
 date: 2024-10-02
 description: ביצוע ניסוי בצורה נכונה חיוני להסקת מסקנות מהימנות. ללא הקפדה על עקרונות
   מדעיים ברורים, תוצאות הניסוי עלולות להטעות ולגרום לפרשנות שגויה של הנתונים.
-draft: true
+draft: false
 favicon: 🔬
 image: img/random.jpg
 title: כיצד מבצעים ניסוי?
