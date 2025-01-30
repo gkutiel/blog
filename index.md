@@ -3,13 +3,13 @@ lang: he
 url: https://gilad.kutiel.com
 date_format: '%d/%m/%Y'
 
-title: הבלוג לאורח חיים בריא
+title: תשובות לשאלות על אורח חיים בריא
 description: בלוג לאורח חיים בריא מציע מדריכים וטיפים לחיים בריאים, כולל תזונה מאוזנת, פעילות גופנית, וניהול סטרס, כדי לשפר את הבריאות הכללית ולחיות חיים מלאים ומאוזנים.
 image: img/cover.jpg
 favicon: 🧘
 ---
 
-# הבלוג לאורח חיים בריא
+# תשובות לשאלות על אורח חיים בריא
 
 > אורח חיים בריא הוא שילוב מאוזן של תזונה נכונה, פעילות גופנית סדירה, שינה איכותית וניהול מתחים, שמוביל לשיפור ברווחה הגופנית והנפשית לאורך זמן.
 
