@@ -33,7 +33,6 @@ body {
 nav {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     margin: 1em 0;
     background-color: var(--color);
     font-weight: bold;
@@ -43,6 +42,8 @@ nav {
     position: fixed;
     right: 0;
     left: 0;
+    gap: 1rem;
+    align-items: center;
 }
 
 nav a {
